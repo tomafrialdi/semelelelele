@@ -1,4 +1,10 @@
 {
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }
+}
+
+{
   "name": "elemesid",
   "version": "1.0.0",
   "private": true,
